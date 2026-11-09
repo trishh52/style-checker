@@ -1,0 +1,266 @@
+{
+ "violations": [
+  {
+   "rule": "R1",
+   "exact": true,
+   "violating": "ebpf is a powerful tool for kernel-level programming.",
+   "phrase": "ebpf"
+  },
+  {
+   "rule": "R1",
+   "exact": true,
+   "violating": "EBPF allows developers to write high-performance network filters.",
+   "phrase": "EBPF"
+  },
+  {
+   "rule": "R1",
+   "exact": true,
+   "violating": "eBpf is often used for tracing system calls.",
+   "phrase": "eBpf"
+  },
+  {
+   "rule": "R1",
+   "exact": true,
+   "violating": "EbpF provides a safe sandbox for packet inspection.",
+   "phrase": "EbpF"
+  },
+  {
+   "rule": "R1",
+   "exact": true,
+   "violating": "EBpf is integrated into the Linux kernel.",
+   "phrase": "EBpf"
+  },
+  {
+   "rule": "R2",
+   "exact": true,
+   "violating": "This command configures the kubernetes cluster.",
+   "phrase": "kubernetes"
+  },
+  {
+   "rule": "R2",
+   "exact": true,
+   "violating": "Use K8s to deploy your services.",
+   "phrase": "K8s"
+  },
+  {
+   "rule": "R2",
+   "exact": true,
+   "violating": "The Kuberneteses API is stable.",
+   "phrase": "Kuberneteses"
+  },
+  {
+   "rule": "R2",
+   "exact": true,
+   "violating": "Kubernetes\u2122 provides a robust platform.",
+   "phrase": "Kubernetes\u2122"
+  },
+  {
+   "rule": "R2",
+   "exact": true,
+   "violating": "The cluster is named KUBERNETES-01.",
+   "phrase": "KUBERNETES"
+  },
+  {
+   "rule": "R3",
+   "exact": true,
+   "violating": "Create a new repository on github.",
+   "phrase": "github"
+  },
+  {
+   "rule": "R3",
+   "exact": true,
+   "violating": "The user can fork the repository from Github.",
+   "phrase": "Github"
+  },
+  {
+   "rule": "R3",
+   "exact": true,
+   "violating": "Use the Git-Hub API for automation.",
+   "phrase": "Git-Hub"
+  },
+  {
+   "rule": "R3",
+   "exact": true,
+   "violating": "All commits are pushed to GITHUB.",
+   "phrase": "GITHUB"
+  },
+  {
+   "rule": "R3",
+   "exact": true,
+   "violating": "The documentation references the gitHub website.",
+   "phrase": "gitHub"
+  },
+  {
+   "rule": "R4",
+   "exact": true,
+   "violating": "The library supports JS for front-end development.",
+   "phrase": "JS"
+  },
+  {
+   "rule": "R4",
+   "exact": true,
+   "violating": "Use javascript to manipulate the DOM.",
+   "phrase": "javascript"
+  },
+  {
+   "rule": "R4",
+   "exact": true,
+   "violating": "This framework is written in Java Script.",
+   "phrase": "Java Script"
+  },
+  {
+   "rule": "R4",
+   "exact": true,
+   "violating": "The API uses Javscript for callbacks.",
+   "phrase": "Javscript"
+  },
+  {
+   "rule": "R4",
+   "exact": true,
+   "violating": "Avoid using jS in production code.",
+   "phrase": "jS"
+  },
+  {
+   "rule": "R5",
+   "exact": false,
+   "violating": "The configuration file is loaded by the installer.",
+   "phrase": "is loaded"
+  },
+  {
+   "rule": "R5",
+   "exact": false,
+   "violating": "The documentation was generated automatically.",
+   "phrase": "was generated"
+  },
+  {
+   "rule": "R5",
+   "exact": false,
+   "violating": "The error message is displayed to the user.",
+   "phrase": "is displayed"
+  },
+  {
+   "rule": "R5",
+   "exact": false,
+   "violating": "The backup is performed every night.",
+   "phrase": "is performed"
+  },
+  {
+   "rule": "R5",
+   "exact": false,
+   "violating": "The settings are saved when the user clicks Save.",
+   "phrase": "are saved"
+  },
+  {
+   "rule": "R7",
+   "exact": true,
+   "violating": "You can simply run the script to see the output.",
+   "phrase": "simply"
+  },
+  {
+   "rule": "R7",
+   "exact": true,
+   "violating": "Just click the button to submit your data.",
+   "phrase": "Just"
+  },
+  {
+   "rule": "R7",
+   "exact": true,
+   "violating": "The function will simply return the first element of the array.",
+   "phrase": "simply"
+  },
+  {
+   "rule": "R7",
+   "exact": true,
+   "violating": "Just remember to back up your database before making changes.",
+   "phrase": "Just"
+  },
+  {
+   "rule": "R7",
+   "exact": true,
+   "violating": "To debug the issue, simply check the error logs for clues.",
+   "phrase": "simply"
+  },
+  {
+   "rule": "R8",
+   "exact": false,
+   "violating": "We will launch the product next quarter.",
+   "phrase": "will launch"
+  },
+  {
+   "rule": "R8",
+   "exact": false,
+   "violating": "The system will automatically update itself.",
+   "phrase": "will automatically update"
+  },
+  {
+   "rule": "R8",
+   "exact": false,
+   "violating": "They will be responsible for maintaining the code.",
+   "phrase": "will be responsible"
+  },
+  {
+   "rule": "R8",
+   "exact": false,
+   "violating": "You will need to submit the report by Friday.",
+   "phrase": "will need"
+  },
+  {
+   "rule": "R8",
+   "exact": false,
+   "violating": "The team will complete the documentation before the deadline.",
+   "phrase": "will complete"
+  },
+  {
+   "rule": "R9",
+   "exact": true,
+   "violating": "This feature works perfectly!",
+   "phrase": "!"
+  },
+  {
+   "rule": "R9",
+   "exact": true,
+   "violating": "Attention: the process has failed!",
+   "phrase": "!"
+  },
+  {
+   "rule": "R9",
+   "exact": true,
+   "violating": "Great job!!!",
+   "phrase": "!!!"
+  },
+  {
+   "rule": "R9",
+   "exact": true,
+   "violating": "Remember to update the database, it's critical!",
+   "phrase": "!"
+  },
+  {
+   "rule": "R9",
+   "exact": true,
+   "violating": "Use the new API now!",
+   "phrase": "!"
+  }
+ ],
+ "clean": [
+  "You deploy eBPF modules in Kubernetes with JavaScript and push updates to GitHub.",
+  "You monitor eBPF traffic in Kubernetes, write JavaScript handlers, and store logs on GitHub.",
+  "You configure eBPF probes in Kubernetes, code callbacks in JavaScript, and commit scripts to GitHub.",
+  "You build eBPF filters in Kubernetes, test them with JavaScript, and version them on GitHub.",
+  "You observe eBPF events in Kubernetes, process data using JavaScript, and upload artifacts to GitHub.",
+  "You manage eBPF programs in Kubernetes, debug them with JavaScript, and track changes on GitHub.",
+  "You scale eBPF deployments in Kubernetes, orchestrate logic in JavaScript, and synchronize code with GitHub.",
+  "You troubleshoot eBPF errors in Kubernetes, write diagnostic scripts in JavaScript, and document on GitHub.",
+  "You automate eBPF monitoring in Kubernetes, generate alerts with JavaScript, and store configurations in GitHub.",
+  "You secure eBPF kernels in Kubernetes, implement policies in JavaScript, and audit commits on GitHub.",
+  "You optimize eBPF performance in Kubernetes, profile with JavaScript, and share benchmarks via GitHub.",
+  "You integrate eBPF analytics into Kubernetes, visualize data with JavaScript, and publish dashboards on GitHub.",
+  "You extend eBPF capabilities in Kubernetes, prototype functions in JavaScript, and merge branches on GitHub.",
+  "You validate eBPF rules in Kubernetes, automate checks with JavaScript, and push results to GitHub.",
+  "You collaborate on eBPF projects in Kubernetes, contribute JavaScript modules, and open pull requests on GitHub.",
+  "You review eBPF code in Kubernetes, refactor with JavaScript, and commit revisions to GitHub.",
+  "You schedule eBPF tasks in Kubernetes, write scheduling logic in JavaScript, and track progress on GitHub.",
+  "You monitor eBPF metrics in Kubernetes, transform data using JavaScript, and archive snapshots on GitHub.",
+  "You debug eBPF interactions in Kubernetes, trace flows with JavaScript, and log findings in GitHub.",
+  "You document eBPF workflows in Kubernetes, annotate steps with JavaScript comments, and publish docs on GitHub."
+ ]
+}

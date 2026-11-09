@@ -1,0 +1,12 @@
+# secrets
+backend/.env
+frontend/.env.local
+
+# python
+backend/venv/
+backend/__pycache__/
+backend/eval_cache.json
+
+# node
+frontend/node_modules/
+frontend/.next/
